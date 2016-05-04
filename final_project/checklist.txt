@@ -1,0 +1,10 @@
+Checklist:
+
+100 - Hosted on heroku [CHECK]
+100 - Custom Domain Name [CHECK] - chat.tsalpekar.me
+100 - Instructor/discretionary
+600 - Custom Programming [CHECK] - NodeJS instance with chat using websockets and interacting with postgres for messages and using third party node modules
+100 - Use a heroku add on [CHECK] - PaperTrail and Postgres
+50 = Integrate Javascript component [CHECK] - Using inline script to communicate to server via websockets
+
+
